@@ -1,6 +1,4 @@
 my first kine
-<<<<<<< HEAD
 No ronaldo sucks
-=======
 No penaldo useless
 >>>>>>> ce7c2ce14379a4627bea9121d90256a470142818
